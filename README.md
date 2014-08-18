@@ -8,7 +8,7 @@ Install
 
 1. Log in to https://dev.twitter.com and register this application as yours.
 
-2. Edit config.rb to fill in CONSUMER_KEY and CONSUMER_SECRET which can be got from apps.twitter.com.
+2. Edit config.rb.sample and save it as config.rb.
 
 3. Config your web server to make your application's URL accessible from web.
 
